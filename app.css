@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    background-color:rgba(135, 207, 235, 0.26); 
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiOLKHVv0aFuvSQqSYIyZisUEYIvEZw55nw&usqp=CAU') ;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    padding: 10px;
+    width: 650px;
+    height: 350px;
+    box-shadow:0px 0px  800px rgba(228, 11, 11, 0.78);
+    border-radius: 50px;
+    text-align: center;
+    font-size: 40px;
+    
+    background-color: rgb(92 20 20);
+    color: rgb(233, 222, 222);
+}
+h2
+{
+    font-size: 60px;
+}
